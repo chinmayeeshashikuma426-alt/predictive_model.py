@@ -1,0 +1,6 @@
+Ready-to-submit educational ML project.
+Main file: predictive_model.py
+Dataset: data/student_performance.csv
+Generated results/graphs: outputs/
+Report: PROJECT_REPORT.md
+Viva: VIVA_QA.md
